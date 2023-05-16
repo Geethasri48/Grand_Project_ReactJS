@@ -1,0 +1,38 @@
+#main{
+    background:#e4f6e9;
+    margin-top: 30px;
+    border-radius: 5px;
+    box-shadow: 6px 5px 6px 5px grey;
+}
+table{
+    /* border: solid 1px; */
+    background-color: #b9f6ca;
+    box-shadow: 1px 2px 3px 4px grey;
+    
+}
+td{
+    height: 60px;
+    font-size: 20px26;
+    border: solid 0.5px;
+}
+thead{
+    font-size: 25px;
+}
+#tabledata{
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#btnright{
+    margin-left: 50px;
+    background: red;
+    color: azure;
+    
+}
+button{
+    border-radius: 8px;
+}
+#btnleft{
+    background: blue;
+    color: azure;    
+}

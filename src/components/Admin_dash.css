@@ -1,0 +1,41 @@
+.car{
+    margin-top: 10px;
+    font-size: 30px;
+    border-radius: 10px;
+    
+    box-shadow: 5px 5px 5px 5px black;
+    
+
+}
+
+
+
+.car{
+    margin-top: 10px;
+    font-size: 30px;
+    /* border-radius: 10px; */
+   
+}
+
+.cartop{
+    height: 100px;
+    border: solid 1px;
+    text-align: center;
+    padding-top: 40px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    /* border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px; */
+
+    
+    
+}
+.carbottom{
+    border: solid 1px;
+    padding-top:10px;
+    text-align: center;
+    /* border-top-right-radius: 10px;
+    border-top-left-radius: 10px; */
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}

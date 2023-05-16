@@ -1,0 +1,9 @@
+.Dashboard{
+    font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.col-md-3{
+  border-color: brown;
+}

@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    
+}
+#tablerow{
+    box-shadow: 3px 3px 3px 3px  black;
+}
+#tablerow1{
+    margin-top: 10px;
+    box-shadow: 3px 3px 0px 3px black;
+    
+}
+thead{
+    font-size: 20px;
+    
+}
